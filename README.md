@@ -22,3 +22,14 @@
 <p align="center">
  ${\textsf{\color{#be92ce}૮꒰˶ ⁠❛   ˕ ⁠❛˶꒱ა Wanderer and Haruka's son ૮꒰ ྀི◜๑◝ ꒱ა}}$
 </p>
+
+<p align="center">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/d6e3f77b-785d-4782-a324-3a8cdd50c29e" />
+</p>
+
+<p align="center">
+ ${\textsf{\color{#be92ce}basic DNIs}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#8c649a}}}$
+</p>
