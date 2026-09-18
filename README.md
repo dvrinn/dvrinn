@@ -12,3 +12,7 @@
 <p align="center">
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/e22e3668-4284-4044-9a15-e001255fb9e0" />
 </p>
+
+<p align="center">
+ ${\textsf{\color{#5a417b}miles  ,  rudo  :: git m/w WanderersWife}}$
+</p>
