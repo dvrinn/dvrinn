@@ -2,6 +2,7 @@
 
 <p align="center">
 <img width="150" alt="image" src="https://github.com/user-attachments/assets/16423abb-158e-4d46-ba5c-8f20b410fa4b" />
+ <img width="150" alt="image" src="https://github.com/user-attachments/assets/8de8cddb-d591-473e-aaf0-7494e429d090" />
 <img width="150" alt="image" src="https://github.com/user-attachments/assets/9c7db08c-f421-4a55-8e23-c280aa076e05" />
 </p>
 
@@ -64,3 +65,4 @@
 <p align="center">
  ${\textsf{\color{#be92ce}૮꒰っ˕‹̥̥̥ ꒱ა it's my dad omg! ૮꒰˶ᵔ ᵕ ᵔ˶꒱ა}}$
 </p>
+
