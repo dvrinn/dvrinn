@@ -14,5 +14,11 @@
 </p>
 
 <p align="center">
- ${\textsf{\color{#5a417b}miles  ,  rudo  :: git m/w WanderersWife}}$
+ ${\textsf{\color{#5a417b}miles  ,  rudo  , aromantic :: git m/w WanderersWife zᶻ ૮˶- ﻌ -˶ა⌒)ᦱ}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#5a417b}minor  ,  they/he  , 13- and under to 21+ and upper DNI || IWEC}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#5a417b}Wanderer and Haruka's son}}$
 </p>
