@@ -52,5 +52,6 @@
    ${\textsf{\color{#7f588d}Gachiakuta fans.}}$
     ${\textsf{\color{#785086}FNaF fans  , Stranger Things fans.}}$
      ${\textsf{\color{#6c5086}Spider-Man :: into the Spider-Verse fans please int freely unless w/ friends.}}$
-      ${\textsf{\color{#634888}I don't bite i swear.. maybe a little. ૮꒰  •̯́ ༝ •̯̀˵꒱ა}}$
+       ${\textsf{\color{#634888}Int kind Wanderer kins || fictkins  , thats my father ! ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა}}$
+  ${\textsf{\color{#634888}I don't bite i swear.. maybe a little. ૮꒰  •̯́ ༝ •̯̀˵꒱ა}}$
 </p>
