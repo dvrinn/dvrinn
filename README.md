@@ -61,3 +61,6 @@
 <p align="center">
 <img width="99" alt="image" src="https://github.com/user-attachments/assets/eedfe702-8738-44f0-a796-a433833d2338" />
 </p>
+<p align="center">
+ ${\textsf{\color{#be92ce}૮꒰っ˕‹̥̥̥ ꒱ა it's my dad omg! ૮꒰˶ᵔ ᵕ ᵔ˶꒱ა}}$
+</p>
