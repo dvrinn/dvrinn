@@ -42,3 +42,15 @@
 <p align="center">
 <img width="300"" alt="image" src="https://github.com/user-attachments/assets/f57d9752-4db6-42bc-9c56-ac69b0b05c05" />
 </p>
+
+<p align="center">
+ ${\textsf{\color{#be92ce}BASIC INT CRITERIA!}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#8c649a}GI people.}}$
+  ${\textsf{\color{#875f95}Friends of friends.}}$
+   ${\textsf{\color{#7f588d}Gachiakuta fans.}}$
+    ${\textsf{\color{#785086}FNaF fans  , Stranger Things fans.}}$
+     ${\textsf{\color{#6c5086}Spider-Man :: into the Spider-Verse fans please int freely unless w/ friends.}}$
+      ${\textsf{\color{#634888}I don't bite i swear.. maybe a little. ૮꒰  •̯́ ༝ •̯̀˵꒱ა}}$
+</p>
