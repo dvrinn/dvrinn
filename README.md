@@ -32,9 +32,9 @@
 </p>
 <p align="center">
  ${\textsf{\color{#8c649a}Homophobic, Transphobic, Xenophobic, etc.}}$
-  ${\textsf{\color{#875f95}Misogynistic behavior}}$
+  ${\textsf{\color{#875f95}Misogynistic behavior.}}$
    ${\textsf{\color{#7f588d}Racist, Sexist, Ableist, Discrimination, etc.}}$
-   ${\textsf{\color{#785086}Invalidates A Person's Pronouns / Gender / Identity}}$
-    ${\textsf{\color{#6c5086}Insensitive | Harmful | Sexualizing jokes.}}$
-     ${\textsf{\color{#634888}Supports, participates, tolerates, or justify any of the above.}}$
+    ${\textsf{\color{#785086}Invalidates A Person's Pronouns / Gender / Identity.}}$
+     ${\textsf{\color{#6c5086}Insensitive | Harmful | Sexualizing jokes.}}$
+      ${\textsf{\color{#634888}Supports, participates, tolerates, or justify any of the above.}}$
 </p>
