@@ -55,3 +55,9 @@
        ${\textsf{\color{#634888}Int kind Wanderer kins || fictkins  , thats my father ! ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა}}$
   ${\textsf{\color{#634888}I don't bite i swear.. maybe a little. ૮꒰  •̯́ ༝ •̯̀˵꒱ა}}$
 </p>
+
+<img width="1380" alt="image" src="https://github.com/user-attachments/assets/ec92658c-757f-4b55-8cff-a23b9be48c28" />
+
+<p align="center">
+<img width="99" alt="image" src="https://github.com/user-attachments/assets/eedfe702-8738-44f0-a796-a433833d2338" />
+</p>
