@@ -38,3 +38,7 @@
      ${\textsf{\color{#6c5086}Insensitive | Harmful | Sexualizing jokes.}}$
       ${\textsf{\color{#634888}Supports, participates, tolerates, or justify any of the above.}}$
 </p>
+
+<p align="center">
+<img width="300"" alt="image" src="https://github.com/user-attachments/assets/f57d9752-4db6-42bc-9c56-ac69b0b05c05" />
+</p>
