@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
- ${\textsf{\color{#5a417b}miles  ,  rudo  , aromantic :: git m/w WanderersWife zᶻ ૮˶- ﻌ -˶ა⌒)ᦱ}}$
+ ${\textsf{\color{#5a417b}miles  ,  rudo  , aromantic , transmasc :: git m/w WanderersWife zᶻ ૮˶- ﻌ -˶ა⌒)ᦱ}}$
 </p>
 <p align="center">
  ${\textsf{\color{#8c649a}minor  ,  they/he  , 13- and under to 21+ and upper DNI || IWEC}}$
