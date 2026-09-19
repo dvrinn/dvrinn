@@ -15,6 +15,10 @@
 </p>
 
 <p align="center">
+ ${\textsf{\color{#5a417b}Durin Kin! ૮꒰˶ᵔ ᵕ ᵔ˶꒱ა}}$
+</p>
+
+<p align="center">
  ${\textsf{\color{#5a417b}miles  ,  rudo  , aromantic :: git m/w WanderersWife zᶻ ૮˶- ﻌ -˶ა⌒)ᦱ}}$
 </p>
 <p align="center">
