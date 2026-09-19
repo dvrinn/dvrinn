@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
- ${\textsf{\color{#5a417b}Durin Kin! ૮꒰˶ᵔ ᵕ ᵔ˶꒱ა}}$
+ ${\textsf{\color{#3e2c65}Durin Kin! ૮꒰˶ᵔ ᵕ ᵔ˶꒱ა}}$
 </p>
 
 <p align="center">
